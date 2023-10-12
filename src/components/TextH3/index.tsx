@@ -11,6 +11,7 @@ interface H3props {
 }
 
 const H3 = styled.h3<H3props>`
+  font-family: "Roboto Condensed";
   position: ${(props) => props.position};
   top: ${(props) => (props.top ? props.top : "auto")};
   left: ${(props) => (props.left ? props.left : "auto")};
