@@ -50,3 +50,5 @@ const InitialScreean: React.FC = () => {
 };
 
 export default InitialScreean;
+
+/* D9D9D9 */
